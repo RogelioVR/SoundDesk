@@ -1,4 +1,4 @@
-![🎛 SOUNDESK_PYTHON](https://github.com/user-attachments/assets/7cee562a-d59f-4b93-82db-3c9d3f808fcd)
+![🎛 SOUNDESK_PYTHON (1)](https://github.com/user-attachments/assets/6367a2d9-48a4-4535-8cdb-e5014a0eb4bd)
 
 ![Captura de pantalla 2024-08-06 220136](https://github.com/user-attachments/assets/379ec29e-8c5a-4c9d-a2fc-19af77e00f8b)
 
