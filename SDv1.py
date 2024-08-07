@@ -78,23 +78,23 @@ def main():
     boton_buscar.grid(row=2, column=0, columnspan=4, pady=20)
 
     # Crear el botón para reproducir sonido
-    boton_reproducir = tk.Button(windows, text="Search File", command=playSound1)
+    boton_reproducir = tk.Button(windows, text="Sound 1", command=playSound1)
     boton_reproducir.grid(row=3, column=0, columnspan=4, pady=20)
 
     # Crear el botón para buscar archivo
-    boton_buscar = tk.Button(windows, text="Buscar Archivo", command=searchFile2)
+    boton_buscar = tk.Button(windows, text="Search File", command=searchFile2)
     boton_buscar.grid(row=4, column=0, columnspan=4, pady=20)
 
     # Crear el botón para reproducir sonido
-    boton_reproducir = tk.Button(windows, text="Sonido 2", command=playSound2)
+    boton_reproducir = tk.Button(windows, text="Sound 2", command=playSound2)
     boton_reproducir.grid(row=5, column=0, columnspan=4, pady=20)
 
         # Crear el botón para buscar archivo
-    boton_buscar = tk.Button(windows, text="Buscar Archivo", command=searchFile3)
+    boton_buscar = tk.Button(windows, text="Search File", command=searchFile3)
     boton_buscar.grid(row=6, column=0, columnspan=4, pady=20)
 
     # Crear el botón para reproducir sonido
-    boton_reproducir = tk.Button(windows, text="Sonido 3", command=playSound3)
+    boton_reproducir = tk.Button(windows, text="Sound 3", command=playSound3)
     boton_reproducir.grid(row=7, column=0, columnspan=4, pady=20)
 
     # Tkinter windows execution
