@@ -21,3 +21,7 @@ Just add a file in the "select file" section then press the "Sound" button.
 - Save the file
 - Run it or just double click in the file
 - Enjoy! 👾
+
+# EXE
+
+https://github.com/RogelioVR/SoundDesk/tree/main/dist
