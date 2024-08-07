@@ -1,6 +1,6 @@
 ![🎛 SOUNDESK_PYTHON](https://github.com/user-attachments/assets/7cee562a-d59f-4b93-82db-3c9d3f808fcd)
 
-![image](https://github.com/user-attachments/assets/430d3087-1fc9-4878-92a9-aa0d6445ac8b)
+![Captura de pantalla 2024-08-06 220136](https://github.com/user-attachments/assets/379ec29e-8c5a-4c9d-a2fc-19af77e00f8b)
 
 # INTRO
 Super easy and simple Python program to play sounds from a file to play it like a sound board!
